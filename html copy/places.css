@@ -1,0 +1,44 @@
+body
+{
+    background-color: darkgray;
+} 
+
+.half
+{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    margin-bottom: 4%;
+    padding-left: 3%;
+}
+img
+{
+    width: 100%;
+    border-radius: 5%;
+}
+
+h1
+{
+    text-align: center;
+    margin-bottom: 50px;
+}
+h2{margin-bottom: 50px;}
+
+p
+{
+    font-size: 20px;
+}
+footer
+{
+    text-align: center;
+}
+a
+{
+    text-decoration: none;
+    color: aqua;
+}
+#footer
+{
+    margin: 50px;
+}
+#main{margin: 10px;padding: 20px;}

@@ -1,0 +1,36 @@
+body{background-color: antiquewhite}
+h2
+{
+    text-align: center
+}
+.trn
+{
+    font-size: 20px;
+}
+img
+{
+    width: 100%;
+    height: 400px;
+}
+.one
+{
+    margin: 20px 40px 20px 40px;
+}
+.two
+{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 3%;
+    float: left;
+}
+.three
+{
+    margin: 20px;
+}
+li{font-size: 20px;}
+a
+{
+    color: darkgreen;
+    text-decoration: none;
+}
+footer{text-align: center;}
